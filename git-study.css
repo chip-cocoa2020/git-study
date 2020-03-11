@@ -5,3 +5,14 @@ a {
 a:hover {
     color: red;
 }
+
+.term {
+    color: #cc0000;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.explanation{
+    font-size: 16px;
+}
