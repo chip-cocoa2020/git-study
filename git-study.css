@@ -16,3 +16,14 @@ a:hover {
 .explanation{
     font-size: 16px;
 }
+
+.back {
+    border: 1px solid #4f73e3;
+    background-color: #4f73e3;
+    border-radius: 5px;
+}
+
+button a {
+    color: #fff;
+    cursor: pointer;
+}
